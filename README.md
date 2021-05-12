@@ -156,7 +156,7 @@ bs.comments(aid=aid, csvfpath='comments.csv')
 - 文本分析在经管研究中的应用
 
 感兴趣的童鞋不妨 戳一下[《python网络爬虫与文本数据分析》](https://ke.qq.com/course/482241?tuin=163164df)进来看看~
-
+[![](img/课程.png)](https://ke.qq.com/course/482241?tuin=163164df)
 
 
 # 更多
